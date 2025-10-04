@@ -1,2 +1,0 @@
-{fact} 
-Only return 'yes' or 'no'.  
